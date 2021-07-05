@@ -4,7 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 
 # Files
-
+![enter image description here](https://s3.af-south-1.amazonaws.com/storefront7.hyperli/stores/za.co.storefront7.hyperli/content/cover/Title2.jpg
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -142,5 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MDU1MjgsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTgzMzA5MzI2OCw0NjQwNTUyOCwtMzMyND
+U1MzYzXX0=
 -->
